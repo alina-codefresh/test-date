@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-date-managed-cluster-alina-1-cm
+  labels:
+    app.kubernetes.io/managed-by: codefresh
+data: 
+  managed-by-runtime: test-date
