@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/alina-codefresh/test-date-default-git-source.git
+    repoURL: https://github.com/alina-codefresh/test-date.git
     path: .
     targetRevision: main
     directory:
